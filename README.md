@@ -1,4 +1,4 @@
-# ChatterBox - Chat Client
+# ChatterBox - Chat Client (Made By AI, Directed by Human)
 
 ![ChatterBox Icon](icon.png)
 
