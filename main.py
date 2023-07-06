@@ -45,7 +45,7 @@ class ChatClient(QWidget):
         self.typing_thread = None
 
     def init_ui(self):
-        self.setWindowTitle('AI Chat Client')
+        self.setWindowTitle('ChatterBox')
         self.setWindowIcon(QIcon('icon.png'))
         self.resize(400, 500)
 
